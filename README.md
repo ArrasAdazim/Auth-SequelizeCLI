@@ -1,4 +1,3 @@
-
 Instal semua depedency dengan : npm Install
 Jalankan Migrations dengan : npx sequelize-cli db:migrate
 Running project dengan : nodemon app.js
